@@ -11,3 +11,17 @@ Please check my code if you think that it can be imporved please suggest.
 *FOR MAC AND LINUX*
 You need to change the code a little bit by just remove pyttsx3 module and its related command.
 As mac and linux or you can say unix systems are inbuit python modules to run the audio format unlike windows that require a module to run speak command.
+
+
+You need to install these module using pip from cmd or terminal 
+import pyttsx3
+import speeachrecogination
+import wikipedia 
+import pyaudio 
+import webbrowser 
+import Appopner 
+import datetime
+import pyjokes
+import random
+
+You just need to import these in you code editor by using comand "import"
